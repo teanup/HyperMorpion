@@ -1,0 +1,11 @@
+{
+	"borderWidth": 1,
+	"squareSize": 7,
+	"resizeCoeff": 4,
+	"grey": "#36393e",
+	"blue": "#5865f2",
+	"red": "#ed4245",
+	"black": "#1e2124",
+	"white": "#b1b1b1",
+	"green": "#57f287"
+}

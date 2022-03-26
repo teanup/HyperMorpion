@@ -1,0 +1,408 @@
+{
+	"lang_name": [
+		"English",
+		"fran\u00e7ais"
+	],
+	"error": [
+			"*An error occured while executing this command*  \uD83D\uDE2C",
+			"*Une erreur s'est produite en ex\u00e9cutant cette commande*  \uD83D\uDE2C"
+	],
+	"timeout": [
+		"You didn't answer in time!",
+		"Vous n'avez pas r\u00e9pondu dans les temps !"
+	],
+	"notForYou": [
+		"Sorry but this message wasn't for you \ud83d\ude15",
+		"D\u00e9sol\u00e9 mais ce message n'\u00e9tait pas pour vous \ud83d\ude15"
+	],
+	"help": [
+		{
+			"title": "Help",
+			"color": "20d070",
+			"description": "Please consider allowing the following permissions to the bot before using it:\n**View Channel**, **Send Messages**, **Embed Links**, **Attach Files**, **Read Message History**.\n\u200b",
+			"info": {
+				"name": "\u2022    `/info`",
+				"value": "Further information about the bot and how to invite it"
+			},
+			"language": {
+				"name": "\u2022    `/language`",
+				"value": "Change the bot's language to one of the following list:\n"
+			},
+			"ping": {
+				"name": "\u2022    `/ping`",
+				"value": "Check the bot's latency"
+			},
+			"rules": {
+				"name": "\u2022    `/rules`",
+				"value": "Read the rules of the available games:\n"
+			},
+			"hypermorpion": {
+				"name": "\u2022    `/hypermorpion <player>`",
+				"value": "Start a game of HyperMorpion with a friend"
+			},
+			"tictactoe": {
+				"name": "\u2022    `/tictactoe <player>`",
+				"value": "Start a game of Tic-tac-toe with a friend"
+			}
+		},
+		{
+			"title": "Aide",
+			"color": "20d070",
+			"description": "Avant de l'utiliser, pensez \u00e0 accorder les autorisations suivantes au bot :\n**Voir le salon**, **Envoyer des messages**, **Int\u00e9grer des liens**, **Joindre des fichiers**, **Voir les anciens messages**.\n\u200b",
+			"language": {
+				"name": "\u2022    `/language`",
+				"value": "Changez la langue du bot en une de la liste suivante : \n"
+			},
+			"info": {
+				"name": "\u2022    `/info`",
+				"value": "Plus d'informations \u00e0 propos du bot et comment l'inviter"
+			},
+			"ping": {
+				"name": "\u2022    `/ping`",
+				"value": "V\u00e9rifiez la latence du bot"
+			},
+			"rules": {
+				"name": "\u2022    `/rules`",
+				"value": "Lisez les r\u00e8gles des jeux disponibles:\n"
+			},
+			"hypermorpion": {
+				"name": "\u2022    `/hypermorpion <joueur>`",
+				"value": "Lancez une partie d'HyperMorpion avec un ami"
+			},
+			"tictactoe": {
+				"name": "\u2022    `/tictactoe <joueur>`",
+				"value": "Lancez une partie de Morpion avec un ami"
+			}
+		}
+	],
+	"language": [
+		{
+			"title": "Language selection",
+			"color": "#800060",
+			"description": "Pick a language from this list:",
+			"select": "Select a language",
+			"delay": 30
+		},
+		{
+			"title": "S\u00e9lection de la langue",
+			"color": "#800060",
+			"description": "Choisissez une langue dans cette liste :",
+			"select": "S\u00e9lectionnez une langue",
+			"delay": 30
+		}
+	],
+	"languageDescriptions": [
+		"Change the bot's language to English",
+		"Changez la langue du bot en fran\u00e7ais"
+	],
+	"languageChanged": [
+		"*Successfully changed the language to English.*",
+		"*La langue a \u00e9t\u00e9 chang\u00e9e en fran\u00e7ais avec succ\u00e8s.*"
+	],
+	"info": [
+		{
+			"title": "Information",
+			"color": "#2080c0",
+			"fields": [
+				{
+					"name": "\u2022    Creation",
+					"value": "This bot was designed from scratch with the **discord.js** module of **Node.js**."
+				},
+				{
+					"name": "\u2022    Feedback",
+					"value": "For any report or suggestion, you can contact `peanut#4445` on Discord.\nIf you want to help out, you can also contribute to adding a new language translation! (and will of course be credited for that)"
+				},
+				{
+					"name": "\u2022    Special thanks to",
+					"value": "\u2727 Monke for her support"
+				},
+				{
+					"name": "\u2022    Inviting the bot",
+					"value": "To add the bot to your server, click on the button below.\n\n(Note that it will need the following permissions to work properly:\n**View Channel**, **Send Messages**, **Embed Links**, **Attach Files**, **Read Message History**.)"
+				}
+			],
+			"inviteBtn": "Invite"
+		},
+		{
+			"title": "Informations",
+			"color": "#2080c0",
+			"fields": [
+				{
+					"name": "\u2022    Cr\u00e9ation",
+					"value": "Ce bot a \u00e9t\u00e9 enti\u00e8rement con\u00e7u avec le module **discord.js** de **Node.js**."
+				},
+				{
+					"name": "\u2022    Retours",
+					"value": "Pour tout signalement ou suggestion, vous pouvez contacter `peanut#4445` sur Discord.\nSi vous voulez aider, vous pouvez aussi contribuer \u00e0 l'ajout d'une nouvelle traduction ! (et vous serez bien s\u00fbr cr\u00e9dit\u00e9 pour cela)"
+				},
+				{
+					"name": "\u2022    Merci \u00e0",
+					"value": "\u2727 Monke pour son soutien"
+				},
+				{
+					"name": "\u2022    Inviter le bot",
+					"value": "Pour ajouter le bot \u00e0 votre server, cliquez sur le bouton ci-dessous.\n\n(Notez qu'il aura besoin des autorisations suivantes pour fonctionner correctement :\n**Voir le salon**, **Envoyer des messages**, **Int\u00e9grer des liens**, **Joindre des fichiers**, **Voir les anciens messages**.)"
+				}
+			],
+			"inviteBtn": "Inviter"
+		}
+	],
+	"ping": [
+		{
+			"title": "Pong!  \uD83C\uDFD3",
+			"color": "#a02040",
+			"description": "The bot's latency is: **"
+		},
+		{
+			"title": "Pong !  \uD83C\uDFD3",
+			"color": "#a02040",
+			"description": "Le bot a une latence de : **"
+		}
+	],
+	"rules": [
+		{
+			"title": "Rules",
+			"color": "#4060c0",
+			"description": "Pick a game from this list to read its rules:",
+			"select": "Read a game's rules",
+			"delay": 30
+		},
+		{
+			"title": "R\u00e8gles",
+			"color": "#4060c0",
+			"description": "Choisissez un jeu dans cette liste pour lire ses r\u00e8gles :",
+			"select": "Lire les r\u00e8gles d'un jeu",
+			"delay": 30
+		}
+	],
+	"hmRules": [
+		{
+			"title": "HyperMorpion Rules",
+			"color": "#4060c0",
+			"description": "HyperMorpion is a game based on Tic-tac-toe where two players compete on a board. Each is assigned a symbol: \ud83c\uddfd and \ud83c\udd7e\ufe0f.\nWhile the rules may seem rather simple, it takes strategy and concentration to win. Some games last more than 30 minutes!",
+			"fields": [
+				{
+					"name": "\u2022    Board",
+					"value": "The board is divided into 9 smaller grids, each consisting of 9 squares. Each player take turns to place their symbol on one of the squares."
+				},
+				{
+					"name": "\u2022    How to win?",
+					"value": "Once a player has lined up three of their symbols in a grid, they win this grid and it is no longer possible to play in. Similarly, when a player has won three lined up grids, they win the game!"
+				},
+				{
+					"name": "\u2022    Specificity",
+					"value": "Note that you are not really free to choose which square you will play in. After a player has placed their symbol on a certain square, the next player **has to** play in the grid whose location corresponds to that square.\nFor example, if the chosen square is at the bottom left of a grid, the next player **must** pick a square of the grid at the bottom left of the board."
+				},
+				{
+					"name": "\u2022    Exceptions",
+					"value": "The first player may, of course, choose the grid on which to play in the first round. Also, if a player is *forced* to play in a grid that has already been won, they won't play in that grid and may choose any available grid."
+				}
+			]
+		},
+		{
+			"title": "R\u00e8gles de l'HyperMorpion",
+			"color": "#4060c0",
+			"description": "L'HyperMorpion est un jeu inspir\u00e9 du Morpion o\u00f9 deux joueurs s'affrontent sur un plateau. On assigne \u00e0 chacun un symbole : \ud83c\uddfd et \ud83c\udd7e\ufe0f.\nBien que les r\u00e8gles puissent sembler plut\u00f4t simple, il faut de la strat\u00e9gie et de la concentration pour gagner. Certaines parties durent plus de 30 minutes !",
+			"fields": [
+				{
+					"name": "\u2022    Plateau",
+					"value": "Le plateau est divis\u00e9 en 9 plus petites grilles, chacune \u00e9tant compos\u00e9e de 9 cases. \u00c0 tour de r\u00f4le, chaque joueur place son symbole sur l'une des cases."
+				},
+				{
+					"name": "\u2022    Comment gagner ?",
+					"value": "Lorsqu'un joueur a align\u00e9 trois de ses symboles dans une grille, il gagne cette grille et il n'est plus possible d'y jouer. De m\u00eame, lorsqu'un joueur a remport\u00e9 trois grilles align\u00e9es, il gagne la partie !"
+				},
+				{
+					"name": "\u2022    Particularit\u00e9",
+					"value": "Notez que vous n'\u00eates pas vraiment libre de choisir la case dans laquelle vous allez jouer. Apr\u00e8s qu'un joueur a plac\u00e9 son symbole sur une certaine case, le joueur suivant est **oblig\u00e9** de jouer dans la grille dont l'emplacement correspond \u00e0 cette case.\nPar exemple, si la case choisie se trouve en bas \u00e0 gauche d'une grille, le joueur suivant **doit** choisir une case de la grille situ\u00e9e en bas \u00e0 gauche du plateau."
+				},
+				{
+					"name": "\u2022    Exceptions",
+					"value": "Le premier joueur peut, bien entendu, choisir la grille sur laquelle il jouera au premier tour. De m\u00eame, si un joueur est *contraint* de jouer dans une grille qui a d\u00e9j\u00e0 \u00e9t\u00e9 gagn\u00e9e, il ne jouera pas dans cette grille et pourra choisir n'importe quelle grille disponible."
+				}
+			]
+		}
+	],
+	"tttRules": [
+		{
+			"title": "Tic-tac-toe Rules",
+			"color": "#4060c0",
+			"description": "Tic-tac-toe is a game where two players compete on a grid. Each is assigned a symbol: \ud83c\uddfd and \ud83c\udd7e\ufe0f.",
+			"fields": [
+				{
+					"name": "\u2022    Grid",
+					"value": "The grid is divided into 9 squares. Each player take turns to place their symbol on one of the squares."
+				},
+				{
+					"name": "\u2022    How to win?",
+					"value": "If a player manages to line up three of their symbols, they win the game!"
+				}
+			]
+		},
+		{
+			"title": "R\u00e8gles du Morpion",
+			"color": "#4060c0",
+			"description": "Le Morpion est un jeu o\u00f9 deux joueurs s'affrontent sur une grille. On assigne \u00e0 chacun un symbole : \ud83c\uddfd et \ud83c\udd7e\ufe0f.",
+			"fields": [
+				{
+					"name": "\u2022    Grille",
+					"value": "Le plateau est divis\u00e9 en 9 cases. \u00c0 tour de r\u00f4le, chaque joueur place son symbole sur l'une des cases."
+				},
+				{
+					"name": "\u2022    Comment gagner ?",
+					"value": "Si un joueur r\u00e9ussit \u00e0 aligner trois de ses symboles, il gagne la partie !"
+				}
+			]
+		}
+	],
+	"timeout_play": [
+			" took too much time to think \ud83d\ude41",
+			" a pris trop de temps pour r\u00e9fl\u00e9chir \ud83d\ude41"
+	],
+	"gameInvite": [
+		{
+			"delay": 30,
+			"accept": "Accept",
+			"decline": "Decline",
+			"refused": "No game then \ud83e\udd37",
+			"timeout": " didn't answer in time \ud83d\ude14"
+		},
+		{
+			"delay": 30,
+			"accept": "Accepter",
+			"decline": "Refuser",
+			"refused": "Pas de partie alors \ud83e\udd37",
+			"timeout": " n'a pas r\u00e9pondu dans les temps \ud83d\ude14"
+		}
+	],
+	"hmInvite": [
+		{
+			"title": "HyperMorpion",
+			"color": "#a0c020",
+			"description": [
+				"Hey ",
+				"! You've just been invited to a game of HyperMorpion with ",
+				".\nFeel like playing?"
+			]
+		},
+		{
+			"title": "HyperMorpion",
+			"color": "#a0c020",
+			"description": [
+				"Hey ",
+				" ! Vous venez d'\u00eatre invit\u00e9 \u00e0 une partie d'HyperMorpion avec ",
+				".\nEnvie de jouer ?"
+			]
+		}
+	],
+	"hypermorpion": [
+		{
+			"title": "A HyperMorpion game started!",
+			"color": "#a0c020",
+			"description": " is facing ",
+			"selGrid": [
+				" it's your turn!",
+                "Select a grid (among the green ones) to play in.\n\nBeware: **",
+				"** seconds remaining!"
+			],
+			"selGridDelay": 60,
+			"selSquare": [
+				" it's your turn!",
+                "Select a square (in the green grid) to play in.\n\nBeware: **",
+				"** seconds remaining!"
+			],
+			"selSquareDelay": 120,
+			"shortened": "The game was shortened... \ud83d\ude15 But it's alright, hopefully you can finish one next time!\n\nYou can also take a look at your game progress below:",
+			"win": [
+				" won, congrats! \ud83e\udd73\nAnd good job to ",
+				" still. Here's a cookie to comfort you \ud83c\udf6a\n\nYou can also take a look at your game progress below:"
+			],
+			"tie": "And it's a tie! Meaning you're both winners! or losers... \ud83e\udd14\n\nYou can also take a look at your game progress below:"
+		},
+		{
+			"title": "Une partie d'HyperMorpion a commenc\u00e9 !",
+			"color": "#a0c020",
+			"description": " affronte ",
+			"selGrid": [
+				" c'est votre tour !",
+                "Choisissez une grille (parmi les vertes) o\u00f9 jouer.\n\nAttention : il reste **",
+				"** secondes !"
+			],
+			"selGridDelay": 60,
+			"selSquare": [
+				" c'est votre tour !",
+                "Choisissez une case (dans la grille verte) o\u00f9 jouer.\n\nAttention : il reste **",
+				"** secondes !"
+			],
+			"selSquareDelay": 120,
+			"shortened": "La partie a \u00e9t\u00e9 raccourcie... \ud83d\ude15 Mais ce n'est pas grave, esp\u00e9rons que vous puissiez en finir une la prochaine fois !\n\nVous pouvez aussi jeter un coup d'\u0153il \u00e0 la progression de votre partie ci-dessous :",
+			"win": [
+				" a gagn\u00e9, bravo ! \ud83e\udd73\nEt bien jou\u00e9 \u00e0 ",
+				" quand m\u00eame. Tiens, un cookie pour te r\u00e9conforter \ud83c\udf6a\n\nVous pouvez aussi jeter un coup d'\u0153il \u00e0 la progression de votre partie ci-dessous :"
+			],
+			"tie": "Et c'est une \u00e9galit\u00e9 ! Ce qui veut dire que vous \u00eates tous les deux gagnants ! ou perdants... \ud83e\udd14\n\nVous pouvez aussi jeter un coup d'\u0153il \u00e0 la progression de votre partie ci-dessous :"
+		}
+	],
+	"tttInvite": [
+		{
+			"title": "Tic-tac-toe",
+			"color": "#a0c020",
+			"description": [
+				"Hey ",
+				"! You've just been invited to a game of Tic-tac-toe with ",
+				".\nFeel like playing?"
+			]
+		},
+		{
+			"title": "Morpion",
+			"color": "#a0c020",
+			"description": [
+				"Hey ",
+				" ! Vous venez d'\u00eatre invit\u00e9 \u00e0 une partie de Morpion avec ",
+				".\nEnvie de jouer ?"
+			]
+		}
+	],
+	"tictactoe": [
+		{
+			"title": "Tic-tac-toe",
+			"color": "#a0c020",
+			"description": [
+				" is facing ",
+				" !"
+			],
+			"selSquare": [
+				" it's your turn!",
+                "Select a square to play in. \n\nBeware: **",
+				"** seconds remaining!"
+			],
+			"selSquareDelay": 30,
+			"shortened": "The game was shortened... \ud83d\ude15 But it's alright, hopefully you can finish one next time!",
+			"win": [
+				" won, congrats! \ud83e\udd73\nAnd good job to ",
+				" still. Here's a cookie to comfort you \ud83c\udf6a"
+			],
+			"tie": "And it's a tie! Meaning you're both winners! or losers... \ud83e\udd14"
+		},
+		{
+			"title": "Morpion",
+			"color": "#a0c020",
+			"description": [
+				" affronte ",
+				" !"
+			],
+			"selSquare": [
+				" c'est votre tour !",
+                "Choisissez une case o\u00f9 jouer.\n\nAttention : il reste **",
+				"** secondes !"
+			],
+			"selSquareDelay": 30,
+			"shortened": "La partie a \u00e9t\u00e9 raccourcie... \ud83d\ude15 Mais ce n'est pas grave, esp\u00e9rons que vous puissiez en finir une la prochaine fois !",
+			"win": [
+				" a gagn\u00e9, bravo ! \ud83e\udd73\nEt bien jou\u00e9 \u00e0 ",
+				" quand m\u00eame. Tiens, un cookie pour te r\u00e9conforter \ud83c\udf6a"
+			],
+			"tie": "Et c'est une \u00e9galit\u00e9 ! Ce qui veut dire que vous \u00eates tous les deux gagnants ! ou perdants... \ud83e\udd14"
+		}
+	]
+}
