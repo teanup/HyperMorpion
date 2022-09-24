@@ -11,12 +11,13 @@ It comes with French and English translations so far (people may help adding a n
 This bot has been created from scratch by myself with the **discord.js**, **canvas** and **gifencoder** modules of **Node.js**.
 
 
-### Adding HyperMorpion to a server`
+### Adding HyperMorpion to a server
 
 You can add it to your server using this link:
 
 <https://discord.com/api/oauth2/authorize?client_id=920276872284233748&permissions=117760&scope=bot%20applications.commands>
 
+**(EDIT: bot is currently offline until further actions of mines)**
 
 ### Requirements
 
